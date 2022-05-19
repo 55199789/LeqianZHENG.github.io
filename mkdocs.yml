@@ -1,0 +1,20 @@
+site_name: 郑乐谦（Leqian Zheng）
+site_url: https://github.com/55199789/LeqianZHENG.github.io
+nav:
+    - 中文: index.md
+    - English: index-EN.md
+    - Google Scholar: https://scholar.google.com/citations?user=O3Sn6RwAAAAJ&hl=en
+    - GitHub: https://github.com/55199789
+    - ORCID: https://orcid.org/0000-0003-3772-4400
+    - ResearchGate: https://www.researchgate.net/profile/Leqian-Zheng
+theme:
+    name: material
+    favicon: img/favicon.png
+    logo: img/diploma.png
+    features:
+        - navigation.tracking
+        - toc.follow
+
+markdown_extensions:
+  - toc:
+      title: 目录/Table of Contents
