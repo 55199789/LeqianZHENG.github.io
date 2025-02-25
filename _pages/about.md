@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='show_paper_citations' id='O3Sn6RwAAAAJ'></span>
 
-I am currently working toward the Ph.D. degree at [City University of Hong Kong](https://www.cityu.edu.hk/), advised by [Prof. WANG Cong](https://cyber.cs.cityu.edu.hk/en/home/index.html). My research interest includes information security and applied cryptography with recent focus on encrypted search and oblivious algorithms. I have published papers with total <a href='https://scholar.google.com/citations?user=O3Sn6RwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on top venues including USENIX Security, VLDB, ACM CCS, IEEE TDSC, and SDM.  
+I am currently working toward the Ph.D. degree at [City University of Hong Kong](https://www.cityu.edu.hk/), advised by [Prof. WANG Cong](https://cyber.cs.cityu.edu.hk/en/home/index.html). My research interest includes information security and applied cryptography with recent focus on encrypted search and oblivious algorithms. I have published papers with total <a href='https://scholar.google.com/citations?user=O3Sn6RwAAAAJ'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/55199789/LeqianZHENG.github.io/google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on top venues including USENIX Security, VLDB, ACM CCS, IEEE TDSC, and SDM.  
 
 
 # 📖 Educations
