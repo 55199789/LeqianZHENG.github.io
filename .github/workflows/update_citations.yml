@@ -2,6 +2,7 @@ name: update_citations
 on:
   schedule:
     - cron: "0 0 * * *" #runs at 00:00 UTC everyday
+  workflow_dispatch:  # This allows manual triggering
 
 jobs:
   run-python-script:
@@ -23,3 +24,18 @@ jobs:
 
     - name: Run the Python script
       run: python google_scholar_crawler/main.py
+
+    - name: Set Git config
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+
+    - name: Check for changes
+      run: |
+        git diff --exit-code || echo "Changes detected"
+
+    - name: Commit and push changes
+      run: |
+        git add .
+        git commit -m "Update citations" || echo "No changes to commit"
+        git push
