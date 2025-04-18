@@ -1,7 +1,7 @@
 name: update_citations
 on:
-  schedule:
-    - cron: "0 0 * * *" #runs at 00:00 UTC everyday
+  # schedule:
+    # - cron: "0 0 * * *" #runs at 00:00 UTC everyday
   workflow_dispatch:  # This allows manual triggering
 
 jobs:
