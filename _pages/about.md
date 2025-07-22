@@ -50,7 +50,7 @@ I am currently working toward the Ph.D. degree at [City University of Hong Kong]
   *In Proc. of the 2021 SIAM International Conference on Data Mining (**SDM'21**), 2021*  
 
 - [Car-Sharing: Online Scheduling k Cars Between Two Locations.](https://dl.acm.org/doi/abs/10.1007/978-3-030-59901-0_5) ![FAW  2020](https://img.shields.io/badge/FAW-2020-blue?style=flat-square)   
-  **Leqian Zheng**, Hau Chan, Grigorios Loukides, Minming Li     
+  Songhua Li, **Leqian Zheng**, and Victor C. S. Lee    
   *In the 14th International Workshop of Frontiers in Algorithmics (**FAW'20**), 2020*  
 
 
