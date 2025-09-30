@@ -31,11 +31,11 @@ I am currently working toward the Ph.D. degree at [City University of Hong Kong]
 
 - [PubSub-VFL: Towards Efficient Two-Party Split Learning in Heterogeneous Environments via Publisher/Subscriber Architecture](https://neurips.cc/virtual/2025/poster/119411) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-blue?style=flat-square)   
   Yi Liu, Yang Liu, **Leqian Zheng**, Jue Hong, Junjie Shi, Qingyou Yang, Ye Wu, Cong Wang  
-  *In Proc. of the 39th Annual Conference on Neural Information Processing Systems (**NeurIPS'25**), (2025)*
+  *In Proc. of the 39th Annual Conference on Neural Information Processing Systems (**NeurIPS'25**), 2025*
 
 - [Do Not Skip Over the Offline: Verifiable Silent Preprocessing From Small Security Hardware](https://ieeexplore.ieee.org/abstract/document/10938283/) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![IEEE TIFS 2025](https://img.shields.io/badge/IEEE_TIFS-2025-blue?style=flat-square)   
   Wentao Dong, Lei Xu, **Leqian Zheng**, Huayi Duan, Cong Wang, Qian Wang  
-  *IEEE Transactions on Information Forensics and Security (**IEEE TIFS**), (2025)*
+  *IEEE Transactions on Information Forensics and Security (**IEEE TIFS**), 2025*
 
 - [H2O2RAM: A High-Performance Hierarchical Doubly Oblivious RAM](https://arxiv.org/abs/2409.07167)  <a href="https://github.com/55199789/H2O2RAM">![Code](https://img.shields.io/badge/GitHub-code-blue)</a> <a href="https://github.com/55199789/LeqianZHENG.github.io/slides/H2O2RAM_presentation.pdf">![Slides](https://img.shields.io/badge/Slides-PDF-blue?style=flat-square)</a> ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![USENIX Security 2024](https://img.shields.io/badge/USENIX_Security-2025-blue?style=flat-square)   
   **Leqian Zheng**, Zheng Zhang, Wentao Dong, Yao Zhang, Ye Wu, Cong Wang    
