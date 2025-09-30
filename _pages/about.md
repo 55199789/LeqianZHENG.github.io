@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='show_paper_citations' id='O3Sn6RwAAAAJ'></span>
 
-I received the Ph.D. degree at [City University of Hong Kong](https://www.cityu.edu.hk/) under the supervision of [Prof. WANG Cong](https://cyber.cs.cityu.edu.hk/en/home/index.html). My research interest includes information security and applied cryptography with recent focus on encrypted search and oblivious algorithms. I have published papers with total <a href='https://scholar.google.com/citations?user=O3Sn6RwAAAAJ'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/55199789/LeqianZHENG.github.io/results/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on top venues including USENIX Security, VLDB, ACM CCS, NeurIPS, IEEE TDSC/TIFS, and SDM.  
+I received my Ph.D. degree at [City University of Hong Kong](https://www.cityu.edu.hk/) under the supervision of [Prof. WANG Cong](https://cyber.cs.cityu.edu.hk/en/home/index.html). My research interest includes information security and applied cryptography with recent focus on encrypted search and oblivious algorithms. I have published papers with total <a href='https://scholar.google.com/citations?user=O3Sn6RwAAAAJ'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/55199789/LeqianZHENG.github.io/results/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on top venues including USENIX Security, VLDB, ACM CCS, NeurIPS, IEEE TDSC/TIFS, and SDM.  
 
 
 # 📖 Educations
@@ -37,11 +37,11 @@ I received the Ph.D. degree at [City University of Hong Kong](https://www.cityu.
   Wentao Dong, Lei Xu, **Leqian Zheng**, Huayi Duan, Cong Wang, Qian Wang  
   *IEEE Transactions on Information Forensics and Security (**IEEE TIFS**), 2025*
 
-- [H2O2RAM: A High-Performance Hierarchical Doubly Oblivious RAM](https://arxiv.org/abs/2409.07167)  <a href="https://github.com/55199789/H2O2RAM">![Code](https://img.shields.io/badge/GitHub-code-blue)</a> <a href="../slides/H2O2RAM_presentation.pdf">![Slides](https://img.shields.io/badge/Slides-PDF-blue?style=flat-square)</a> ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![USENIX Security 2024](https://img.shields.io/badge/USENIX_Security-2025-blue?style=flat-square)   
+- [H2O2RAM: A High-Performance Hierarchical Doubly Oblivious RAM](https://arxiv.org/abs/2409.07167)  <a href="https://github.com/55199789/H2O2RAM">![Code](https://img.shields.io/badge/GitHub-code-blue)</a> <a href="https://github.com/55199789/LeqianZHENG.github.io/blob/master/slides/H2O2RAM_presentation.pdf">![Slides](https://img.shields.io/badge/Slides-PDF-blue?style=flat-square)</a> ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![USENIX Security 2024](https://img.shields.io/badge/USENIX_Security-2025-blue?style=flat-square)   
   **Leqian Zheng**, Zheng Zhang, Wentao Dong, Yao Zhang, Ye Wu, Cong Wang    
   *In Proc. of the 34th USENIX Security Symposium (**USENIX Security'25**), 2025*  
 
-- [SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted Data Stores](https://arxiv.org/abs/2306.16851)   <a href="https://github.com/55199789/SWAT">![Code](https://img.shields.io/badge/GitHub-code-blue)</a> <a href="../slides/SWAT_presentation.pdf">![Slides](https://img.shields.io/badge/Slides-PDF-blue?style=flat-square)</a>  ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![VLDB 2024](https://img.shields.io/badge/VLDB-2024-blue?style=flat-square)   
+- [SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted Data Stores](https://arxiv.org/abs/2306.16851)   <a href="https://github.com/55199789/SWAT">![Code](https://img.shields.io/badge/GitHub-code-blue)</a> <a href="https://github.com/55199789/LeqianZHENG.github.io/blob/master/slides/SWAT_presentation.pdf">![Slides](https://img.shields.io/badge/Slides-PDF-blue?style=flat-square)</a>  ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![VLDB 2024](https://img.shields.io/badge/VLDB-2024-blue?style=flat-square)   
   **Leqian Zheng**, Lei Xu, Cong Wang, Sheng Wang, Yuke Hu, Zhan Qin, Feifei Li, Kui Ren  
   *In Proc. of the 50th International Conference on Very Large Databases (**VLDB'24**), 2024*  
 
@@ -53,7 +53,7 @@ I received the Ph.D. degree at [City University of Hong Kong](https://www.cityu.
   Huayi Duan, Yuefeng Du, **Leqian Zheng**, Cong Wang, Man Ho Au, Qian Wang  
   *IEEE Transactions on Dependable and Secure Computing (**IEEE TDSC**), 2023*  
 
-- [Maximizing approximately k-submodular functions](https://arxiv.org/abs/2101.07157)   <a href="https://github.com/55199789/approx_kSubmodular">![Code](https://img.shields.io/badge/GitHub-code-blue)</a>  <a href="../slides/SDM21_presentation.pdf">![Slides](https://img.shields.io/badge/Slides-PDF-blue?style=flat-square)</a> ![CCF B](https://img.shields.io/badge/CCF-B-red?style=flat-square) ![SDM 2021](https://img.shields.io/badge/SDM-2021-blue?style=flat-square)   
+- [Maximizing approximately k-submodular functions](https://arxiv.org/abs/2101.07157)   <a href="https://github.com/55199789/approx_kSubmodular">![Code](https://img.shields.io/badge/GitHub-code-blue)</a>  <a href="https://github.com/55199789/LeqianZHENG.github.io/blob/master/slides/SDM21_presentation.pdf">![Slides](https://img.shields.io/badge/Slides-PDF-blue?style=flat-square)</a> ![CCF B](https://img.shields.io/badge/CCF-B-red?style=flat-square) ![SDM 2021](https://img.shields.io/badge/SDM-2021-blue?style=flat-square)   
   **Leqian Zheng**, Hau Chan, Grigorios Loukides, Minming Li     
   *In Proc. of the 2021 SIAM International Conference on Data Mining (**SDM'21**), 2021*  
 
