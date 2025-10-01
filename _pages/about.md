@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='show_paper_citations' id='O3Sn6RwAAAAJ'></span>
 
-I received my Ph.D. degree at [City University of Hong Kong](https://www.cityu.edu.hk/) under the supervision of [Prof. WANG Cong](https://cyber.cs.cityu.edu.hk/en/home/index.html). My research interest includes information security and applied cryptography with recent focus on encrypted search and oblivious algorithms. I have published papers with total <a href='https://scholar.google.com/citations?user=O3Sn6RwAAAAJ'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/55199789/LeqianZHENG.github.io/results/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on top venues including USENIX Security, VLDB, ACM CCS, NeurIPS, IEEE TDSC/TIFS, and SDM.  
+I received my Ph.D. degree from [City University of Hong Kong](https://www.cityu.edu.hk/) under the supervision of [Prof. WANG Cong](https://cyber.cs.cityu.edu.hk/en/home/index.html). My research interest includes information security and applied cryptography with recent focus on encrypted search and oblivious algorithms. I have published papers with total <a href='https://scholar.google.com/citations?user=O3Sn6RwAAAAJ'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/55199789/LeqianZHENG.github.io/results/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on top venues including USENIX Security, VLDB, ACM CCS, NeurIPS, IEEE TDSC/TIFS, and SDM.  
 
 
 # 📖 Educations
