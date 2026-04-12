@@ -80,8 +80,8 @@ I am currently a Lecturer in the College of Computer Science at the National Uni
 - CS3391, Advanced Programming (Algorithms)
 - CS3334, Data Structures
 
-# 💻 Internships
-- *2023.08 - 2024.03*, ByteDance, China.
+<!-- # 💻 Internships
+- *2023.08 - 2024.03*, ByteDance, China. -->
 
 # 👋 Visitors
 
