@@ -18,5 +18,5 @@ main:
   - title: "Teaching Experiences"
     url: "/#-teaching-experiences"
 
-  - title: "Internships"
-    url: "/#-internships"
+  # - title: "Internships"
+  #   url: "/#-internships"
